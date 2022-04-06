@@ -1,7 +1,7 @@
 ### <h1 align="center">Bem vindo(a, e) a mais um repositório insignificante</h1>
   
   <div align="center">
-  <p>Sou Pedro, desenvolvedor Fullstack.</p>
+  <p>Meu nome é João Pedro e sou desenvolvedor.</p>
   <p>Atualmente desenvolvendo projetos pare enriquecer meu portfólio.</p><br>
   </div>
   
@@ -9,7 +9,7 @@
     <div align="center">
       <a href="https://github.com/S0fer">
       <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=S0fer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-      <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0fer&layout=compact&langs_count=7&theme=dracula"/>
+      <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0fer&layout=compact&langs_count=7&theme=midnight-purple"/>
     </div>
   </div>
   
