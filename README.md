@@ -8,7 +8,7 @@
   <div>
     <div align="center">
       <a href="https://github.com/S0fer">
-      <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=S0fer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=S0fer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
       <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0fer&layout=compact&langs_count=7&theme=dracula"/>
     </div>
   </div>
@@ -21,14 +21,12 @@
     <img align="center" alt="JP-GitHub" height="40" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
     <img align="center" alt="JP-mySql" height="40" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
     <img align="center" alt="JP-Csharp" height="40" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
-    <img align="center" alt="JP-Csharp" height="40" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
+    <img align="center" alt="JP-Csharp" height="40" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" />
   </div>
   
 ##
   
   <div align="center"> 
-    <a href="https://www.instagram.com/pedro.shu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:pedrorsehn@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/pedro-rogowski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/joao-alarcon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
  
