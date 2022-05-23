@@ -1,8 +1,9 @@
-### <h1 align="center">Bem vindo(a, e) a mais um repositório insignificante</h1>
+### <h1 align="center">Bem vindo ao meu repositório <3</h1>
   
   <div align="center">
   <p>Meu nome é João Pedro e sou desenvolvedor.</p>
   <p>Atualmente desenvolvendo projetos pare enriquecer meu portfólio.</p><br>
+  <p>https://alarcon.netlify.app/</p><br>
   </div>
   
   <div>
