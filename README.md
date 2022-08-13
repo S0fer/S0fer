@@ -3,6 +3,7 @@
   <div align="center">
   <p>Meu nome é João Pedro e sou desenvolvedor.</p>
   <p>Atualmente desenvolvendo projetos para enriquecer meu portfólio.</p><br>
+  <p>Main Stack: React.js Javascript CSS</p><br>
   <p>https://alarcon.netlify.app/</p><br>
   </div>
   
